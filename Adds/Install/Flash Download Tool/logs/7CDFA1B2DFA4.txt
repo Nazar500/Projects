@@ -1,0 +1,159 @@
+*************************** START ****************************
+START TIME: 202504132058
+CONNECT BAUD: 115200
+set state: ESP_DL_SYNC
+serial port opened
+-----------
+baud:115200
+root baud:115200
+-------------
+===============BAUD : 115200===============CALL DEVICE SYNC
+connecting...
+mac l: 0xa1b2dfa4
+mac h: 0x7cdf
+get mac res: 1
+get flash id : 0x00164020
+manufacturer_id: 0x20
+device_id: 0x4016
+set STOP FLG: Truecom closed
+Use time: 23 s
+Download result: PASS
+*************************** END ****************************
+
+set state: ESP_DL_STOP
+*************************** START ****************************
+START TIME: 202504132059
+CONNECT BAUD: 115200
+set state: ESP_DL_SYNC
+serial port opened
+-----------
+baud:115200
+root baud:115200
+-------------
+===============BAUD : 115200===============CALL DEVICE SYNC
+connecting...
+mac l: 0xa1b2dfa4
+mac h: 0x7cdf
+get mac res: 1
+get flash id : 0x00164020
+manufacturer_id: 0x20
+device_id: 0x4016
+Wrote 1779264 bytes (1083505 compressed) at 0x00000000 in 96.7 seconds (effective 147.2 kbit/s)...
+Hash of data verified.
+Leaving...
+com closed
+Use time: 106 s
+Download result: PASS
+*************************** END ****************************
+
+*************************** START ****************************
+START TIME: 202504271109
+CONNECT BAUD: 115200
+set state: ESP_DL_SYNC
+serial port opened
+-----------
+baud:115200
+root baud:115200
+-------------
+===============BAUD : 115200===============CALL DEVICE SYNC
+connecting...
+mac l: 0xa1b2dfa4
+mac h: 0x7cdf
+get mac res: 1
+get flash id : 0x00164020
+manufacturer_id: 0x20
+device_id: 0x4016
+*************************** START ****************************
+START TIME: 202504271111
+CONNECT BAUD: 115200
+set state: ESP_DL_SYNC
+serial port opened
+-----------
+baud:115200
+root baud:115200
+-------------
+===============BAUD : 115200===============CALL DEVICE SYNC
+connecting...
+mac l: 0xa1b2dfa4
+mac h: 0x7cdf
+get mac res: 1
+get flash id : 0x00164020
+manufacturer_id: 0x20
+device_id: 0x4016
+set STOP FLG: Trueset STOP FLG: Truecom closed
+Use time: 26 s
+Download result: PASS
+*************************** END ****************************
+
+set state: ESP_DL_STOP
+*************************** START ****************************
+START TIME: 202504271111
+CONNECT BAUD: 115200
+set state: ESP_DL_SYNC
+serial port opened
+-----------
+baud:115200
+root baud:115200
+-------------
+===============BAUD : 115200===============CALL DEVICE SYNC
+connecting...
+mac l: 0xa1b2dfa4
+mac h: 0x7cdf
+get mac res: 1
+get flash id : 0x00164020
+manufacturer_id: 0x20
+device_id: 0x4016
+set STOP FLG: Trueset STOP FLG: Trueset STOP FLG: Truecom closed
+Use time: 22 s
+Download result: PASS
+*************************** END ****************************
+
+set state: ESP_DL_STOP
+*************************** START ****************************
+START TIME: 202504271112
+CONNECT BAUD: 115200
+set state: ESP_DL_SYNC
+serial port opened
+-----------
+baud:115200
+root baud:115200
+-------------
+===============BAUD : 115200===============CALL DEVICE SYNC
+connecting...
+mac l: 0xa1b2dfa4
+mac h: 0x7cdf
+get mac res: 1
+get flash id : 0x00164020
+manufacturer_id: 0x20
+device_id: 0x4016
+set STOP FLG: Truecom closed
+Use time: 22 s
+Download result: PASS
+*************************** END ****************************
+
+set state: ESP_DL_STOP
+*************************** START ****************************
+START TIME: 202504271112
+CONNECT BAUD: 115200
+set state: ESP_DL_SYNC
+serial port opened
+-----------
+baud:115200
+root baud:115200
+-------------
+===============BAUD : 115200===============CALL DEVICE SYNC
+connecting...
+mac l: 0xa1b2dfa4
+mac h: 0x7cdf
+get mac res: 1
+get flash id : 0x00164020
+manufacturer_id: 0x20
+device_id: 0x4016
+Wrote 1779264 bytes (1083505 compressed) at 0x00000000 in 96.7 seconds (effective 147.2 kbit/s)...
+Hash of data verified.
+Leaving...
+com closed
+Use time: 106 s
+Download result: PASS
+*************************** END ****************************
+
